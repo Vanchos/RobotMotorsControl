@@ -49,3 +49,16 @@ To https://github.com/Vanchos/RobotMotorsControl.git
 [main dc2aa4d] Add new file motors_control.py
  1 file changed, 33 insertions(+)
  create mode 100644 motors_control.py
+
+
+
+git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 802 bytes | 802.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/Vanchos/RobotMotorsControl.git
+   02b5189..e421fbf  main -> main
+
