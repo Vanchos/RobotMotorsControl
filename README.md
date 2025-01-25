@@ -42,3 +42,10 @@ To https://github.com/Vanchos/RobotMotorsControl.git
 `git remote set-url origin https://Vanchos:github_pat_???????????????????????????????????????????????@github.com/Vanchos/RobotMotorsControl.git`
 
 ## 2. Создание файлов в каталоге репозитория и сохранение изменений в репозитории
+
+`nano motors_control.py`
+`git add motors_control.py`
+`git commit -m "Add new file motors_control.py"`
+[main dc2aa4d] Add new file motors_control.py
+ 1 file changed, 33 insertions(+)
+ create mode 100644 motors_control.py
