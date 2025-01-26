@@ -60,5 +60,29 @@ Total 5 (delta 0), reused 0 (delta 0)
 To https://github.com/Vanchos/RobotMotorsControl.git  
    02b5189..e421fbf  main -> main  
 
+## 3. Создание новой ветки и внесение изменений в код
+
+`git checkout -b speed_modification`
+
+`git branch`  
+  main  
+\* speed_modification
+
+Далее, изменения в файл motors_control.py, commit и публикация branch были выполнены с помощью Visual Studio Code.
+
+## 4. Создание пул-реквеста для слияния изменений с основной веткой (на GitHub/GitLab)
+
+1. На GitHub был создан пулреквест " Add speed control #1 "
+2. Получено сообщение о возможности автоматического слияния
+3. Дано разрешение на слияние
+4. Удален бранч "speed_modification"
+5. На локальном компьютере произведено переключение на бранч "main" `git switch main`
+6. Выполнена команда `git pull`
+Updating 4be66d0..9fecb81  
+Fast-forward  
+ motors_control.py | 4 ++++  
+ 1 file changed, 4 insertions(+)  
+
+
 
 
