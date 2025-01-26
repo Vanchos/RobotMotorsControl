@@ -1,3 +1,4 @@
+#Code without speed control
 mport RPi.GPIO as GPIO
 
 from time import sleep
@@ -31,3 +32,6 @@ print "Stopping motor"
 GPIO.output(Motor1E,GPIO.LOW)
 
 GPIO.cleanup()
+
+# Code with speedd control
+
