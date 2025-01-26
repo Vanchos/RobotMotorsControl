@@ -77,7 +77,7 @@ To https://github.com/Vanchos/RobotMotorsControl.git
 3. Дано разрешение на слияние
 4. Удален бранч "speed_modification"
 5. На локальном компьютере произведено переключение на бранч "main" `git switch main`
-6. Выполнена команда `git pull`
+6. Выполнена команда `git pull`  
 Updating 4be66d0..9fecb81  
 Fast-forward  
  motors_control.py | 4 ++++  
