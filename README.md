@@ -70,7 +70,7 @@ To https://github.com/Vanchos/RobotMotorsControl.git
 
 Далее, изменения в файл motors_control.py, commit и публикация branch были выполнены с помощью Visual Studio Code.
 
-## 4. Создание пул-реквеста для слияния изменений с основной веткой (на GitHub/GitLab)
+## 4. Создание пул-реквеста для слияния изменений с основной веткой (на GitHub)
 
 1. На GitHub был создан пулреквест " Add speed control #1 "
 2. Получено сообщение о возможности автоматического слияния
